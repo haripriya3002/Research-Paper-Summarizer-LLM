@@ -8,7 +8,7 @@ A Large Language Model (LLM)-based summarizer that helps researchers and student
 
 -  Upload research papers in PDF format
 -  Summarization using state-of-the-art LLMs (e.g., OpenAI GPT)
--  Extracts abstract, introduction, key points, and conclusion
+-  Extracts abstract, introduction, key points and conclusion
 -  Provides bullet-point summaries and optional Q&A
 -  Interactive user interface (can be extended via Gradio/Streamlit)
 
